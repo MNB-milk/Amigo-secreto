@@ -1,7 +1,7 @@
 # **Amigo secreto**
 ![Imagen de portada](https://github.com/user-attachments/assets/23cacae5-d446-4e7c-aef2-f13ccab905a9)
 
-Este es el resultado de un proyecto en el que se sortean los amigos a partir de una lista, y el sistema selecciona aleatoriamente solo un nombre.
+Este es el resultado de un proyecto en el que se sortean los amigos a partir de una lista, y el sistema selecciona aleatoriamente solo un nombre(funcionaria como una ruleta).
  ## *Pasos para usar el juego:* 
  1-ingresar los nombres en la barra. 2-picarle al boton. 3-checar el nombre que aparece.
  
